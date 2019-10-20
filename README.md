@@ -1,65 +1,14 @@
-# SB Admin rewritten in Angular8 and Bootstrap 4
+# SatChat
+NASA Space Apps Challenge 2019 Milano
 
-Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
+Data is dull, without the appropriate representation one doesn't bother to develop a more profound understanding. We're proud to announce that we found a way to make the data more interesting to people, SatChat!
 
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v8.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular8 Theme.
+SatChat is the new way to communicate to the satellites, nearing people to all the data provided by NASA and making the action of learning more interesting and interactive.
 
-Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
+Imagine that you're looking to the beautiful spectacle provided by our awesome milk way during a clear-sky night, wondering about how vast the universe is and how you'd like to see our colorful planet from another perspective. What about opening your phone, look at the millions of artificial things that our society put up there and talk to them?
 
-## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/)
+Satchat makes it possible, for you to communicate with a satellite. The purpose, research, history and features will be provided to you by the Satellite itself. You'll be able to see the world from its immense lens and find out its real-time position around the globe.
 
-## [SB Admin Material version](https://github.com/start-javascript/sb-admin-material)
+There is a spider-web of satellites on there, and they're all ready to talk to you now.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
-
-### Introduction
-
-Provides fast, reliable and extensible starter for the development of Angular projects.
-
-`sb-admin-bs4-angular8` provides the following features:
-
-*   Developed using boostrap-v4.0.0
-*   angular-v8.0.0
-*   angular/cli-v8.0.0
-*   [ng-bootstrap-v4.0.0](https://github.com/ng-bootstrap/)
-*   [ngx-translate-v11.0.0](https://github.com/ngx-translate)
-*   Following the best practices.
-*   Ahead-of-Time compilation support.
-*   Official Angular i18n support.
-*   Production and development builds.
-*   Tree-Shaking production builds.
-
-### How to start
-
-**Note** that this seed project requires **node >=v8.9.0 and npm >=4**.
-
-In order to start the project use:
-
-```bash
-$ git clone https://github.com/start-angular/SB-Admin-BS4-Angular-8.git
-$ cd SB-Admin-BS4-Angular-8
-# install the project's dependencies
-$ npm install
-# watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-$ npm start
-# prod build, will output the production application in `dist`
-# the produced code can be deployed (rsynced) to a remote server
-$ npm run build
-```
-
-### Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
-
-### Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-### Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-### Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+For further information please go to our website: https://satchat.azurewebsites.net
