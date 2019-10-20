@@ -1,0 +1,9 @@
+.bgimg{
+    background-image: url("../../../assets/images/sfondoHome2.jpg");
+    z-index: -1;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+    filter: brightness(80%);
+    height: 480px;
+}
